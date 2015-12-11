@@ -22,7 +22,7 @@ The recommended way to install Component is through composer.
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.5.0",
-    "st/event-dispatcher": "dev-master#v1.0.1"
+    "st/event-dispatcher": "1.0.5"
   },
   "repositories": [
     {
