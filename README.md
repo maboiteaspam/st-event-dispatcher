@@ -18,10 +18,20 @@ The recommended way to install Component is through composer.
 
 ```json
 {
-    "require": {
-        "st/event-dispatcher": "dev-master#v.1.0.1"
+
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.0",
+    "st/event-dispatcher": "dev-master#v1.0.1"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:maboiteaspam/st-event-dispatcher.git"
     }
+  ]
 }
+
 ```
 
 # see also
