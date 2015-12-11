@@ -1,14 +1,19 @@
 {
-    "name": "st/event-dispatcher",
-    "description": "Standard Eventing Interface for PHP",
-    "type": "st",
-    "license": "WTF",
-    "authors": [
-        {
-            "name": "maboiteaspam",
-            "email": "no@where.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "st/event-dispatcher",
+  "description": "Standard Eventing Interface for PHP",
+  "type": "st",
+  "license": "WTF",
+  "authors": [
+    {
+      "name": "maboiteaspam",
+      "email": "no@where.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "st\\": "src/st"
+    }
+  }
 }
