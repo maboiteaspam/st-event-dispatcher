@@ -1,0 +1,14 @@
+{
+    "name": "st/event-dispatcher",
+    "description": "Standard Eventing Interface for PHP",
+    "type": "st",
+    "license": "WTF",
+    "authors": [
+        {
+            "name": "maboiteaspan",
+            "email": "no@where.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
