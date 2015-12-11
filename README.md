@@ -14,7 +14,7 @@ to let a standard occur.
 
 ## Install
 
-The recommended way to install ComponentName is through composer.
+The recommended way to install Component is through composer.
 
 ```json
 {
